@@ -1,5 +1,5 @@
 # WindowSizeVisualizer
-THIS WAS MADE WITH THE HELP OF CHATGPT
+THIS WAS MADE WITH THE HELP OF CHATGPT.
 I had a broken monitor and coped with it. I wanted to see what's a good window size for the games I play (I don't play on full screen).
 
 First time using Python and the pre-installed Tkinter module to make a simple Windows application.
